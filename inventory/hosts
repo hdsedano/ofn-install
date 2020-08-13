@@ -49,7 +49,7 @@ br-staging
 # Colombia
 
 [co-prod]
-www.openfoodcolombia.org
+openfoodcolombia.org
 
 [co:children]
 co-prod
