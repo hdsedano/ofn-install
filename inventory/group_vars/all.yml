@@ -1,10 +1,12 @@
 ---
 
 # User name and password for running ansible on host
-user: ofn-admin
+user: adminofcolombia
+#user: ofn-admin
 
 # User name for deployment
-deployment_user: ofn-deploy
+deployment_user: adminofcolombia
+#deployment_user: ofn-deploy
 
 # Connecting to the server
 #   ssh_pubkey - Location of the SSH public key file for the user created by
