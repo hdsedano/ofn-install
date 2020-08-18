@@ -1,11 +1,9 @@
 ---
 
 # User name and password for running ansible on host
-#user: adminofcolombia
 user: ofn-admin
 
 # User name for deployment
-#deployment_user: adminofcolombia
 deployment_user: ofn-deploy
 
 # Connecting to the server
